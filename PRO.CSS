@@ -1,0 +1,61 @@
+header{
+    color: darkorange;
+    overflow: hidden;
+}
+hgroup{
+    width: 60%;
+    
+}
+.se{
+    background-color: chocolate;
+}
+.t{
+    background-color: black;
+    color: aliceblue;
+    border-color: chocolate;
+   
+}
+.main{
+    background: url(tree\ -\ Copy.jpg);
+}
+
+nav{
+    width: 40%;
+    float: right;
+
+}
+nav {
+    list-style-type: none;
+}
+nav li{
+    float: left;
+    margin: 10px;
+
+   
+}
+section h1{
+
+    color: coral;
+    line-height: 3px;
+}
+section{
+    color: white;
+    font-size: 30px;
+
+}
+.web{
+    color: white;
+}
+.para{
+    font-size: 20px;
+}
+footer{
+
+    font-size: 10px;     
+
+}
+button .j{
+    
+     background-color: coral;  
+    cursor: pointer;
+}
